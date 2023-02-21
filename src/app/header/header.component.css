@@ -1,0 +1,23 @@
+.header{
+    width: 100%;
+    background-color: rgb(255, 0, 0);
+    border-bottom: solid 10px black;
+}
+.menu{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    height: 2rem;
+}
+
+.menu li{
+    font-weight: 600;
+    padding: 5px;
+    text-align: center;
+}
